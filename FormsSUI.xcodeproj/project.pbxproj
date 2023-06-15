@@ -11,6 +11,8 @@
 		F91DB0292A3A20D900D6411E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F91DB0282A3A20D900D6411E /* ContentView.swift */; };
 		F91DB02B2A3A20DA00D6411E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F91DB02A2A3A20DA00D6411E /* Assets.xcassets */; };
 		F91DB02E2A3A20DA00D6411E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F91DB02D2A3A20DA00D6411E /* Preview Assets.xcassets */; };
+		F91DB0352A3A21A200D6411E /* FormsModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = F91DB0342A3A21A200D6411E /* FormsModels.swift */; };
+		F91DB03B2A3A323B00D6411E /* FormView01.swift in Sources */ = {isa = PBXBuildFile; fileRef = F91DB03A2A3A323B00D6411E /* FormView01.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		F91DB0282A3A20D900D6411E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F91DB02A2A3A20DA00D6411E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F91DB02D2A3A20DA00D6411E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F91DB0342A3A21A200D6411E /* FormsModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormsModels.swift; sourceTree = "<group>"; };
+		F91DB03A2A3A323B00D6411E /* FormView01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormView01.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				F91DB0262A3A20D900D6411E /* FormsSUIApp.swift */,
 				F91DB0282A3A20D900D6411E /* ContentView.swift */,
+				F91DB0342A3A21A200D6411E /* FormsModels.swift */,
+				F91DB03A2A3A323B00D6411E /* FormView01.swift */,
 				F91DB02A2A3A20DA00D6411E /* Assets.xcassets */,
 				F91DB02C2A3A20DA00D6411E /* Preview Content */,
 			);
@@ -138,7 +144,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				F91DB0292A3A20D900D6411E /* ContentView.swift in Sources */,
+				F91DB0352A3A21A200D6411E /* FormsModels.swift in Sources */,
 				F91DB0272A3A20D900D6411E /* FormsSUIApp.swift in Sources */,
+				F91DB03B2A3A323B00D6411E /* FormView01.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

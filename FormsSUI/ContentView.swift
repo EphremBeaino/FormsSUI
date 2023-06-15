@@ -10,12 +10,14 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
-            Text("Hello, world!")
+//            FormView(manager: FormManager()) { data in
+//
+//            }
         }
-        .padding()
+    }
+    
+    func buildUI() {
+//        let name = FormRo
     }
 }
 
